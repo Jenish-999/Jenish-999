@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Jenish-Patel
-- 👀 I’m interested in Node js && React js 
-- 🌱 I Love you dig into different programming languages
+- 👀 I’m do projectes in Node js && React js 
+- 🌱 I Love to dig into different programming languages
+- I am damm ready to learn new things
 - 💞️ I’m looking to collaborate with each entity of the gitHub
 - 📫 You can reach me via pjenish6359@gmail.com
 
